@@ -129,12 +129,10 @@ Issues and pull requests welcome! TwoFace is designed to be simple, reliable, an
 
 ## 📄 License
 
-[Add your chosen license here]
-
-## 🙏 Credits
-
-Created for developers who juggle multiple Git identities and need seamless file synchronization.
+MIT License
 
 ---
 
-**TwoFace** - Because sometimes you need to be in two places at once! 🎭
+Created for developers who juggle multiple Git identities and need seamless file synchronization.
+
+
