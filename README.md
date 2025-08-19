@@ -85,8 +85,6 @@ launchctl load ~/Library/LaunchAgents/com.user.twoface.plist
 # Check if TwoFace is running
 launchctl list | grep com.user.twoface
 
-# Uninstall TwoFace
-~/code/twoface-uninstall.sh
 ```
 
 ## 🧪 Testing the Installation
@@ -114,14 +112,6 @@ launchctl list | grep com.user.twoface
 - TwoFace infrastructure files
 - `.DS_Store` files
 - System hidden files
-
-## 🗑️ Uninstalling
-
-TwoFace includes a clean uninstaller that removes all components while preserving your write and deploy directories:
-
-```bash
-~/code/twoface-uninstall.sh
-```
 
 ## 🤝 Contributing
 
